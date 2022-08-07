@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/sayazean/File2",
+  "repositori" : "https://github.com/Noval654/File2" ,
   "logo": "https://telegra.ph/file/198cdef858f7455c6cd64.jpg",
   "env": {
     "TG_BOT_TOKEN": {
